@@ -1,0 +1,15 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {    
+    // "target": "ES2020",
+    "allowJs": true,
+    "baseUrl": ".",
+    "outDir": "./out",
+    "rootDir": "./src",
+    "paths": {
+      "*": ["./src/typings"]
+    }
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "out"]
+}

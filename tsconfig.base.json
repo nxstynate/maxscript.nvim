@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"module"                          : "commonJS",
+		"moduleResolution"                : "node",
+		"target": "ES2020",
+		"lib"   : ["ES6", "ES2020"],
+		"esModuleInterop"                 : true,
+		"sourceMap"                       : true,
+		// "noImplicitAny"                   : true,
+		// "allowSyntheticDefaultImports"    : true,
+		// "noImplicitReturns"               : true,
+		// "noUnusedLocals"                  : true,
+		// "noUnusedParameters"              : true,
+		// "declaration"                     : true,
+		// "declarationMap"                  : true,
+		"strict"                          : true,
+		"forceConsistentCasingInFileNames": true,
+		"composite"                       : true,
+		"baseUrl": ".",
+	}
+}
