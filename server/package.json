@@ -19,6 +19,7 @@
 		"ast-monkey-traverse": "^2.1.0",
 		"ast-monkey-util": "^1.4.0",
 		"clone-deep": "^4.0.1",
+		"js2lua": "^0.1.5",
 		"moo": "^0.5.1",
 		"nearley": "^2.20.1",
 		"object-path": "^0.11.8",
